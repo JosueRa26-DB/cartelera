@@ -2,10 +2,10 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import { Header } from "./shared/header";
 import { Footer } from "./shared/footer";
-import { Home } from "./Features/home/Home";
 import { NotFound } from "./shared/notFound";
-import { Movies } from "./Features/movies/Movies";
-import MovieDetails from "./Features/movies/movieDetails";
+import { Home } from "./components/home/Home";
+import Movies from "./components/movies/Movies";
+import MovieDetails from "./components/movies/movieDetails";
 export default function App() {
   return (
     <BrowserRouter>

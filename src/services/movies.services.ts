@@ -1,6 +1,6 @@
 import type {Movie} from "../model/movie.model"
 
-const MOVIES_URL = "../../Data/Movies.json";
+const MOVIES_URL = "/data/movies.json";
 
 export async function getMovies(): Promise<Movie[]> {
     const response = await fetch(MOVIES_URL);

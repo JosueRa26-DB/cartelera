@@ -1,5 +1,5 @@
 import type { Movie } from "../../model/movie.model";
-import MovieCard from "./MovieCard";
+import MovieCard from "./movieCard";
 
 export  function MovieList({movies}: {movies: Movie[]}) {
 
