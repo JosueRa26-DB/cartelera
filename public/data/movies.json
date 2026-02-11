@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1",
+    "title": "The Batman",
+    "description": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas...",
+    "duration": "2h 56min",
+    "cinema": "Cinépolis Centro",
+    "showtimes": "14:00 - 17:30 - 21:00",
+    "availableSeats": 45,
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwcrwgn8dLc-uExRZr2rGcK-YuPC4Qe21A4KlWRm22Mdg5lGBeTYdO7g_St8u"
+  },
+  {
+    "id": "2",
+    "title": "Spider-Man: No Way Home",
+    "description": "Un gran poder conlleva una gran responsabilidad. Peter Parker debe enfrentar nuevos desafíos...",
+    "duration": "2h 28min",
+    "cinema": "Cinemark Plaza",
+    "showtimes": "15:00 - 18:30 - 22:00",
+    "availableSeats": 28,
+    "posterUrl": "https://moviepostermexico.com/cdn/shop/products/spiderman_no_way_home_ver3_xxlg_540x.jpg?v=1638990338"
+  },
+  {
+    "id": "3",
+    "title": "Joker",
+    "description": "Guasón en la ciudad. La historia del origen de uno de los villanos más icónicos del cine...",
+    "duration": "2h 2min",
+    "cinema": "Multicinemas Norte",
+    "showtimes": "13:30 - 16:00 - 19:30",
+    "availableSeats": 62,
+    "posterUrl": "https://es.web.img3.acsta.net/c_310_420/pictures/19/09/17/17/03/5442885.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Dune",
+    "description": "Viaje al desierto. Una epopeya de ciencia ficción ambientada en el planeta Arrakis...",
+    "duration": "2h 35min",
+    "cinema": "Cinépolis Centro",
+    "showtimes": "14:30 - 18:00 - 21:30",
+    "availableSeats": 38,
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Oppenheimer",
+    "description": "La historia del científico J. Robert Oppenheimer y su papel en el desarrollo de la bomba atómica...",
+    "duration": "3h 0min",
+    "cinema": "Cinemark Plaza",
+    "showtimes": "15:30 - 19:00 - 22:30",
+    "availableSeats": 40,
+    "posterUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJaf86PXWSzv4QeiGjavUihJ-1MasKp9b8ScEEl3XftuNzsu3Q906JkDe4fFSb"
+  },
+  {
+    "id": "6",
+    "title": "Interstellar",
+    "description": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar...",
+    "duration": "2h 49min",
+    "cinema": "Multicinemas Norte",
+    "showtimes": "14:00 - 17:45 - 21:15",
+    "availableSeats": 50,
+    "posterUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6nYCXj52jSC-Y5oOzgMYpw_LZd7jB4rDLrqzrwHj1VVanwYlps95Pjxa48m5_"
+  },
+  {
+    "id": "7",
+    "title": "Avengers: Endgame",
+    "description": "Después de los devastadores eventos causados por Thanos, los Vengadores restantes deben reunirse...",
+    "duration": "3h 1min",
+    "cinema": "Cinépolis Centro",
+    "showtimes": "13:00 - 17:00 - 21:00",
+    "availableSeats": 35,
+    "posterUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsJGO7V5iFf0PMMJ72XIuEaUxGO5EqUm-tWd_eGhLJfTwvORgH7XgdjcT4nDhe"
+  },
+  {
+    "id": "8",
+    "title": "Inception",
+    "description": "Dom Cobb es un experto en el arte de robar secretos a través de los sueños...",
+    "duration": "2h 28min",
+    "cinema": "Cinemark Plaza",
+    "showtimes": "16:00 - 19:30 - 22:45",
+    "availableSeats": 47,
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCZs3maB6gshgY98ra-vTSil59R5VnwTkcS3s8DhunfaBFN56CuUhAkyVB3xC"
+  },
+  {
+    "id": "9",
+    "title": "Fast X",
+    "description": "Dom Toretto y su familia enfrentan una nueva amenaza que busca vengarse...",
+    "duration": "2h 21min",
+    "cinema": "Multicinemas Norte",
+    "showtimes": "15:00 - 18:00 - 21:30",
+    "availableSeats": 55,
+    "posterUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVCRofAomD6pCzm9VDfRDf_fQJhMS8LAwj1ZwMLvN3pAd3SrOB-5BIZlvdg91C"
+  },
+  {
+    "id": "10",
+    "title": "Toy Story",
+    "description": "Un grupo de juguetes cobra vida cuando los humanos no están presentes...",
+    "duration": "1h 21min",
+    "cinema": "Cinecalidad",
+    "showtimes": "3:00 PM, 6:00 PM, 8:30 PM",
+    "availableSeats": 45,
+    "posterUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEkEJioq-cEOoKjp7mseDknjRi03uM9yFMHtWqKDIDV3TsJGzTYH9UPRVGiy1T"
+  },
+  {
+    "id": "11",
+    "title": "El Rey León",
+    "description": "Simba, un joven león, debe aceptar su destino como rey tras la muerte de su padre.",
+    "duration": "1h 58min",
+    "cinema": "Cinecalidad",
+    "showtimes": "2:30 PM, 5:30 PM, 9:00 PM",
+    "availableSeats": 32,
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR57TcWKkG7Cus9rIzcMJ4Ig7ZTTYrrun3tWIG_3_Pi_6dLJgi2wQCiFfJz62za"
+  },
+  {
+    "id": "12",
+    "title": "Frozen",
+    "description": "La princesa Anna se embarca en una aventura para encontrar a su hermana Elsa...",
+    "duration": "1h 42min",
+    "cinema": "Cinecalidad",
+    "showtimes": "1:00 PM, 4:00 PM, 7:00 PM",
+    "availableSeats": 50,
+    "posterUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScV-c7b-Hk0uNlM7OFjqaP5dfi3lsh-SMaw5Rf0JpPwUG0UdpjKeilblPwYFq0"
+  },
+  {
+    "id": "13",
+    "title": "Shrek",
+    "description": "Un ogro gruñón emprende una misión para rescatar a una princesa...",
+    "duration": "1h 30min",
+    "cinema": "Cinecalidad",
+    "showtimes": "12:00 PM, 3:30 PM, 6:30 PM",
+    "availableSeats": 28,
+    "posterUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmGmY5mVm9elpqP83ckAK0ehtA3MzhZOlPeAjS3vmcKozF_O0OeEJRSDAqNZl0"
+  },
+  {
+    "id": "14",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "description": "Miles Morales descubre sus poderes y se une a otros Spider-Man de diferentes dimensiones.",
+    "duration": "1h 57min",
+    "cinema": "Cinecalidad",
+    "showtimes": "4:30 PM, 7:30 PM, 10:00 PM",
+    "availableSeats": 22,
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu415UAkP4sKyTPHgBajZ6_xkANr4eIH29CZ9UL0kTx0mWyorlgKNsjkUSPZDh"
+  },
+  {
+    "id": "15",
+    "title": "Coco",
+    "description": "Miguel viaja al Mundo de los Muertos para descubrir la verdad sobre su familia...",
+    "duration": "1h 45min",
+    "cinema": "Cinecalidad",
+    "showtimes": "2:00 PM, 5:00 PM, 8:00 PM",
+    "availableSeats": 40,
+    "posterUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRu7ScLC3v-eBh_iAZsjpAmuL1I1soQp62UzO6cF_OJjsvn7aLo9TZmJC3-yQO"
+  },
+  {
+    "id": "16",
+    "title": "Los Increíbles",
+    "description": "Una familia de superhéroes intenta llevar una vida normal mientras combate a un nuevo villano.",
+    "duration": "1h 55min",
+    "cinema": "Cinecalidad",
+    "showtimes": "3:15 PM, 6:15 PM, 9:15 PM",
+    "availableSeats": 36,
+    "posterUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc62Skq5-9pSdzKNdvycoBSOKYh4Z7Bi_HcFHTdlO6FPZ3Akth2ludLRi5RfI-"
+  },
+  {
+    "id": "17",
+    "title": "Encanto",
+    "description": "Mirabel es la única sin poderes en su familia mágica, pero podría ser la clave...",
+    "duration": "1h 39min",
+    "cinema": "Cinecalidad",
+    "showtimes": "1:30 PM, 4:30 PM, 7:30 PM",
+    "availableSeats": 48,
+    "posterUrl": "https://i.ebayimg.com/images/g/daAAAOSwuhhiaJvC/s-l1600.webp"
+  }
+]
