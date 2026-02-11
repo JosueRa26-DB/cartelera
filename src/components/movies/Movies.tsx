@@ -12,7 +12,7 @@ export default function Movies() {
 
   useEffect(() => {
     getMovies().then(setMovies).finally(() => setLoading(false));
-  },[]);
+  },[movies]);
 
   if (loading) 
     return(
