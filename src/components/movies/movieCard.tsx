@@ -3,7 +3,9 @@ import type { Movie } from "../../model/movie.model";
 
 export default function MovieCard(movie: Movie) {
   return (
-    <Link to={`/movies/${movie.id}`} className="block no-underline group w-full">
+    <Link
+    data-cy = "movie-card" 
+    to={`/movies/${movie.id}`} className="block no-underline group w-full">
       <article className="relative w-full rounded-xl overflow-hidden bg-[#111] border border-white/5 shadow-lg group-hover:-translate-y-2 group-hover:shadow-[0_20px_40px_rgba(255,0,0,0.2)] transition-all duration-500 cursor-pointer">
         
         {/* Contenedor de Imagen: Formato Póster Cine (2:3) */}
